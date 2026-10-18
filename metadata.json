@@ -1,0 +1,6 @@
+{
+  "name": "Mikkys Barbing Salon",
+  "description": "Look Good. Feel Better. Modern, mobile-first barbing salon booking application with sharp styles and effortless scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
